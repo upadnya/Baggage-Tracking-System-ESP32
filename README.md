@@ -1,0 +1,2 @@
+# Baggage-Tracking-System-ESP32
+Used ESP32 as an iBeacon which was attached to the bag, another ESP32 was coded to act like a scanner. • The data collected is sent to AWS IOT account, where it is stored and redirected to the HTTPS endpoint. • Used Flask to create user authentication page, passwords were MD5 encrypted and stored in SQLite database. • Used PhoneGap to create a mobile application, by using standards-based web technologies.
